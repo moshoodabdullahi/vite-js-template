@@ -16,14 +16,14 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://js-vite-template.netlify.app/)
+[Live Demo Link](https://vite-js-template.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/js-vite-template.git
+git clone https://github.com/moshoodabdullahi/vite-js-template.git
 
 ```
 
@@ -110,9 +110,8 @@ yarn test
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
+- Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
 
 ## 🤝 Contributing
 
